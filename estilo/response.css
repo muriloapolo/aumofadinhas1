@@ -24,7 +24,7 @@
 
     #nav.active #menu {
         display: block;
-        height: calc(100vh - 70px);
+        height: calc(100vh - 100px);
         visibility: visible;
         overflow-y: auto;
         align-items: center;

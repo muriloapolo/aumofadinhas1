@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'Bubblegum';
-    src: url('./font/Bubblegum.ttf') format('truetype');
+    src: url('../font/Bubblegum.ttf') format('truetype');
 }
 
 body {
