@@ -46,9 +46,17 @@ a:hover {
 
 }
 
-#logo img {
-    width: 70px;
+#logoCaixa {
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
 
+#logo img {
+    padding-top: 8px;
+    width: 100%
 }
 
 #headerBG {
